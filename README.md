@@ -1,2 +1,2 @@
-# exercito-herenca
+# exercito-heranca
 ![alt text](diagrama.jpg)
